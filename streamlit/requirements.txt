@@ -1,0 +1,5 @@
+streamlit
+pandas
+uvicorn
+gunicorn==19.9.0
+pandas
